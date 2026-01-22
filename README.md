@@ -1,5 +1,3 @@
-## Olá!, Sou Gabriel Sena 👋
-
 # 👨‍💻 Gabriel Sena
 
 **`Desenvolvedor FullStack`**
