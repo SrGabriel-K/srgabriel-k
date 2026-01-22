@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel, tenho 24 anos e sou natural de Salvador-BA. Concluí o ensino médio no CBS, com o curso técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifacs. Sou apaixonado por tecnologia e programação!.
+Olá!, me chamo Gabriel, tenho 24 anos e sou natural de Salvador-BA. Concluí o ensino médio no CBS, com o curso técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifacs. Sou apaixonado por tecnologia e programação!.
 
 
 <a href="www.linkedin.com/in/gabriel-sena-k" target="_blank">
