@@ -12,8 +12,6 @@ Olá!, me chamo Gabriel, tenho 24 anos e sou natural de Salvador-BA. Concluí o 
     />
 </a>
 
-<br/>
-
 
 <a href="www.linkedin.com/in/gabriel-sena-k" target="_blank">
     <img 
