@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Sena
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack Júnior`**
 
 Olá!, me chamo Gabriel, tenho 24 anos e sou natural de Salvador-BA. Concluí o ensino médio no CBS, com o curso técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifacs e cursando a formação fullstack - DevClub. Sou apaixonado por tecnologia e programação!, e tenho alguns projetos práticos realizados, veja mais baixo e clique em "Repositórios".
 <br/><br/>
