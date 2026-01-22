@@ -20,6 +20,12 @@ Me chamo Gabriel, tenho 24 anos e sou natural de Salvador-BA. Concluí o ensino 
         title="Instagram"
         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
+     <a href="srgabrielsena00@gmail.com" target="_blank">
+    <img 
+        alt="Gmail"
+        title="Gmail"
+        src="https://img.shields.io/badge/Gmail-2B2B2B?style=for-the-badge&logo=gmail&logoColor=white"
+    />
 </a>
     <a href="https://github.com/srgabriel-k?tab=repositories&sort=stargazers">
         <img 
