@@ -2,7 +2,17 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá!, me chamo Gabriel, tenho 24 anos e sou natural de Salvador-BA. Concluí o ensino médio no CBS, com o curso técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifacs e cursando a formação fullstack - DevClub. Sou apaixonado por tecnologia e programação!, e tenho alguns projetos práticos, veja mais baixo!.
+Olá!, me chamo Gabriel, tenho 24 anos e sou natural de Salvador-BA. Concluí o ensino médio no CBS, com o curso técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifacs e cursando a formação fullstack - DevClub. Sou apaixonado por tecnologia e programação!, e tenho alguns projetos práticos realizados, veja mais baixo e clique em "Repositórios".
+<br/><br/>
+<a href="https://github.com/srgabriel-k?tab=repositories&sort=stargazers" target="_blank">
+    <img 
+        alt="Repositórios"
+        title="Repositórios GitHub"
+        src="https://img.shields.io/badge/📚%20Repositórios-000000?style=for-the-badge&logo=book&logoColor=white"
+    />
+</a>
+
+<br/>
 
 
 <a href="www.linkedin.com/in/gabriel-sena-k" target="_blank">
