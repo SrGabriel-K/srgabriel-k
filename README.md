@@ -58,7 +58,7 @@ Email: srgabrielsena00@gmail.com
 </a>
 
 
-<a href="https://www.linkedin.com/in/gabriel-sena-k/" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-sena-kl/" target="_blank">
     <img 
         alt="LinkedIn"
         title="LinkedIn"
