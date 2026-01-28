@@ -5,7 +5,7 @@
 Desenvolvedor Front-end com foco em React, TypeScript e JavaScript, criando interfaces web modernas, responsivas e bem estruturadas. Tenho experiência prática em projetos front-end e conhecimentos complementares em Node.js e Python, o que me permite entender melhor integrações e APIs.
 
 🎯 Objetivo: atuar como Desenvolvedor Front-end, evoluindo constantemente em aplicações web modernas.
-
+<br><br>
 🚀 Tecnologias Principais:
 
 - React
