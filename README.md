@@ -27,10 +27,9 @@ Desenvolvedor Front-end com foco em React, TypeScript e JavaScript, criando inte
 - Consumo de APIs REST
 
 - MySQL (noções)
-<br>
-📈 Em constante evolução:
+<br> 
 
-Atualmente focado em:
+📈 Atualmente focado em:
 
 - Aprimorar arquitetura de componentes em React
 
@@ -40,8 +39,9 @@ Atualmente focado em:
 
 - Integração com APIs
 <br>
-📫 Contato:
 
+📫 Contato:
+<br>
 LinkedIn: https://www.linkedin.com/in/gabriel-sena-k/
 
 Email: srgabrielsena00@gmail.com
