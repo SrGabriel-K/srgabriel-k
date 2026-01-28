@@ -46,6 +46,7 @@ LinkedIn: https://www.linkedin.com/in/gabriel-sena-k/
 
 Email: srgabrielsena00@gmail.com
 <br>
+
 ⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.
 <br/><br/>
 <a href="https://github.com/srgabriel-k?tab=repositories&sort=stargazers" target="_blank">
