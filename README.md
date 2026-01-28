@@ -4,7 +4,29 @@
 
 Desenvolvedor Front-end com foco em React, TypeScript e JavaScript, criando interfaces web modernas, responsivas e bem estruturadas. Tenho experiência prática em projetos front-end e conhecimentos complementares em Node.js e Python, o que me permite entender melhor integrações e APIs.
 
-🎯 Objetivo: atuar como Desenvolvedor Front-end, evoluindo constantemente em aplicações web modernas., veja mais baixo e clique em "Repositórios".
+🎯 Objetivo: atuar como Desenvolvedor Front-end, evoluindo constantemente em aplicações web modernas.
+
+🚀 Tecnologias Principais:
+
+- React
+
+- TypeScript
+
+- JavaScript (ES6+)
+
+- HTML5 | CSS3
+
+- Git & GitHub
+
+🔧 Conhecimentos Complementares:
+
+- Node.js
+
+- Python
+
+- Consumo de APIs REST
+
+- MySQL (noções)
 <br/><br/>
 <a href="https://github.com/srgabriel-k?tab=repositories&sort=stargazers" target="_blank">
     <img 
