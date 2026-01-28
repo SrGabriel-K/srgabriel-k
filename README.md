@@ -49,7 +49,7 @@ Email: srgabrielsena00@gmail.com
 
 ⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.
 <br/><br/>
-<a href="https://github.com/srgabriel-k?tab=repositories&sort=stargazers" target="_blank">
+<a href="https://github.com/srgabriel-kl?tab=repositories&sort=stargazers" target="_blank">
     <img 
         alt="Repositórios"
         title="Repositórios GitHub"
@@ -78,18 +78,18 @@ Email: srgabrielsena00@gmail.com
         src="https://img.shields.io/badge/Gmail-2B2B2B?style=for-the-badge&logo=gmail&logoColor=white"
     />
 </a>
-    <a href="https://github.com/srgabriel-k?tab=repositories&sort=stargazers">
+    <a href="https://github.com/srgabriel-kl?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/srgabriel-k?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/srgabriel-kl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/srgabriel-k?tab=followers">
+    <a href="https://github.com/srgabriel-kl?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/srgabriel-k?color=000000&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/srgabriel-kl?color=000000&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
