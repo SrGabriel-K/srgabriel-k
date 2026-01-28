@@ -45,7 +45,7 @@ Desenvolvedor Front-end com foco em React, TypeScript e JavaScript, criando inte
 LinkedIn: https://www.linkedin.com/in/gabriel-sena-k/
 
 Email: srgabrielsena00@gmail.com
-<br>
+<br><br>
 
 ⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.
 <br/><br/>
