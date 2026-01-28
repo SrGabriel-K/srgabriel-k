@@ -17,7 +17,7 @@ Desenvolvedor Front-end com foco em React, TypeScript e JavaScript, criando inte
 - HTML5 | CSS3
 
 - Git & GitHub
-
+<br>
 🔧 Conhecimentos Complementares:
 
 - Node.js
