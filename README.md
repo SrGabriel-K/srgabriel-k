@@ -71,7 +71,7 @@ Email: srgabrielsena00@gmail.com
         title="Instagram"
         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
-     <a href="srgabrielsena00@gmail.com" target="_blank">
+     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
     <img 
         alt="Gmail"
         title="Gmail"
