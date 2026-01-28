@@ -27,7 +27,7 @@ Desenvolvedor Front-end com foco em React, TypeScript e JavaScript, criando inte
 - Consumo de APIs REST
 
 - MySQL (noções)
-
+<br>
 📈 Em constante evolução:
 
 Atualmente focado em:
@@ -39,7 +39,7 @@ Atualmente focado em:
 - Performance e responsividade
 
 - Integração com APIs
-
+<br>
 📫 Contato:
 
 LinkedIn: https://www.linkedin.com/in/gabriel-sena-k/
