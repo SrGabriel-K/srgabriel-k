@@ -27,6 +27,26 @@ Desenvolvedor Front-end com foco em React, TypeScript e JavaScript, criando inte
 - Consumo de APIs REST
 
 - MySQL (noções)
+
+📈 Em constante evolução:
+
+Atualmente focado em:
+
+- Aprimorar arquitetura de componentes em React
+
+- Boas práticas com TypeScript
+
+- Performance e responsividade
+
+- Integração com APIs
+
+📫 Contato:
+
+LinkedIn: https://www.linkedin.com/in/gabriel-sena-k/
+
+Email: srgabrielsena00@gmail.com
+
+⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.
 <br/><br/>
 <a href="https://github.com/srgabriel-k?tab=repositories&sort=stargazers" target="_blank">
     <img 
